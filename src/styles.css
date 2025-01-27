@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'SK Femme Fatale';
+    src: url(assets/fonts/SKFemmeFatale-Regular.eot);
+    src: local('SK Femme Fatale Regular'), local('SKFemmeFatale-Regular'),
+        url(assets/fonts/SKFemmeFatale-Regular.eot?#iefix) format('embedded-opentype'),
+        url(assets/fonts/SKFemmeFatale-Regular.woff2) format('woff2'),
+        url(assets/fonts/SKFemmeFatale-Regular.woff) format('woff'),
+        url(assets/fonts/SKFemmeFatale-Regular.ttf) format('truetype');
+}
+
+body {
+   background-color: black
+}
