@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
 @font-face {
     font-family: 'SK Femme Fatale';
     src: url(assets/fonts/SKFemmeFatale-Regular.eot);
@@ -8,6 +10,11 @@
         url(assets/fonts/SKFemmeFatale-Regular.ttf) format('truetype');
 }
 
+
 body {
-   background-color: black
+    overflow: hidden;
+    background-image: url(assets/imgs/paper-3155438.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
