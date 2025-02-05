@@ -14,7 +14,7 @@
 body {
     overflow: hidden;
     background-image: url(assets/imgs/paper-3155438.jpg);
-    background-size: 100%;
+    background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
 }

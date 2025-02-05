@@ -10,5 +10,6 @@ import { RouterLink } from '@angular/router';
   styleUrl: './main.component.css',
 })
 export class MainComponent {
+  disable:boolean = false;
 
 }

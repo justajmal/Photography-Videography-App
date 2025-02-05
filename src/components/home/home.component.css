@@ -1,0 +1,38 @@
+section {
+    font-family: "Montserrat", serif;
+    background-color: white;
+}
+
+.text1 {
+    font-family: 'SK Femme Fatale';
+    font-size: 100px;
+}
+
+.text2 {
+    font-family: 'SK Femme Fatale';
+    font-size: 50px;
+}
+
+@media (max-width: 2560px) {
+    .text1 {
+        font-family: 'SK Femme Fatale';
+        font-size: 200px;
+    }
+    
+    .text2 {
+        font-family: 'SK Femme Fatale';
+        font-size: 50px;
+    }
+}
+
+@media (max-width: 1024px) {
+    .text1 {
+        font-family: 'SK Femme Fatale';
+        font-size: 100px;
+    }
+    
+    .text2 {
+        font-family: 'SK Femme Fatale';
+        font-size: 50px;
+    }
+}
